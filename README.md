@@ -30,11 +30,11 @@ This repository contains the resources, scripts, and configuration files used to
 
 This project was built using the following open-source speech datasets:
 
-| Dataset              | Language  | License     | Link                                                               |
-|----------------------|-----------|-------------|--------------------------------------------------------------------|
-| Common Voice v13     | Tamazight | CC-0        | https://commonvoice.mozilla.org                                    |
-| tamazight_asr        | Tamazight | CC-BY       | https://huggingface.co/datasets/TutlaytAI/tamazight_asr            | 
-| CSS10-Tamazight      | Tamazight | CC-BY       | https://huggingface.co/datasets/Tamazight-NLP/tamawalt-n-imZZyann  | 
+| Dataset               | Link                                                                |
+|-----------------------|---------------------------------------------------------------------|
+| Common Voice v13      |  https://commonvoice.mozilla.org                                    |
+| tamazight_asr         |  https://huggingface.co/datasets/TutlaytAI/tamazight_asr            | 
+| tamawalt-n-imZZyann   |  https://huggingface.co/datasets/Tamazight-NLP/tamawalt-n-imZZyann  | 
 
 These datasets were cleaned, transliterated from Tifinagh to Latin, and filtered during preprocessing. Manifest files describing splits (train, val, test) are included with the data archive linked above.
 
