@@ -32,7 +32,7 @@ This project was built using the following open-source speech datasets:
 
 | Dataset               | Link                                                                |
 |-----------------------|---------------------------------------------------------------------|
-| Common Voice v13      |  https://commonvoice.mozilla.org                                    |
+| Common Voice v13      |  [https://commonvoice.mozilla.org](https://datacollective.mozillafoundation.org/datasets/cmj8u3q2h00vdnxxbxwu0swv4)                                    |
 | tamazight_asr         |  https://huggingface.co/datasets/TutlaytAI/tamazight_asr            | 
 | tamawalt-n-imZZyann   |  https://huggingface.co/datasets/Tamazight-NLP/tamawalt-n-imZZyann  | 
 
